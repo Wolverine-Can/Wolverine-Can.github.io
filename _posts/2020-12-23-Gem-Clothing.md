@@ -1,10 +1,10 @@
 ---
-title: "CS61B: Gitlet"
-date: 2020-09-13
-tags: [Java - Data Structure]
+title: "Web App: Gem-Clothing"
+date: 2020-12-23
+tags: [React - Redux - Firebase - Stripe - GraphQL]
 header:
   image: "/resource/banner.png"
-excerpt: "A version control system inspired by Git"
+excerpt: "React - Redux - Firebase - Stripe - GraphQL"
 ---
 
 ![](/resource/Gem-Clothing.gif)
