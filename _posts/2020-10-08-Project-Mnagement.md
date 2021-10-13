@@ -12,8 +12,6 @@ excerpt: "Spring Boot - PostgreSQL - AWS"
 # Project Management
 A Spring Boot web application for managers to manage projects and employees.
 
-It is deployed to AWS. Try it yourself: [Project Management online](http://ec2-13-56-150-8.us-west-1.compute.amazonaws.com:8080).
-
 ## Features
 - PostgreSQL database with AWS RDS.
 - Restful routes and services API
